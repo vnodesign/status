@@ -4,18 +4,19 @@
     "url": "https://tuanducdesign.com",
     "icon": "https://favicons.githubusercontent.com/tuanducdesign.com",
     "slug": "blog",
-    "status": "up",
-    "uptime": "98.75%",
-    "uptimeDay": "98.92%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "98.75%",
-    "uptimeYear": "98.75%",
+    "status": "down",
+    "uptime": "98.79%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "98.79%",
+    "uptimeYear": "98.79%",
     "time": 1161,
-    "timeDay": 1443,
+    "timeDay": 1369,
     "timeWeek": 1229,
     "timeMonth": 1161,
     "timeYear": 1161,
     "dailyMinutesDown": {
+      "2021-11-27": 0,
       "2021-11-26": 16,
       "2021-11-18": 156
     }
@@ -44,18 +45,16 @@
     "icon": "https://favicons.githubusercontent.com/profile.tuanducdesign.com",
     "slug": "profile",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 903,
     "timeDay": 912,
     "timeWeek": 916,
     "timeMonth": 903,
     "timeYear": 903,
-    "dailyMinutesDown": {
-      "2021-11-27": 5
-    }
+    "dailyMinutesDown": {}
   }
 ]
