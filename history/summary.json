@@ -43,19 +43,19 @@
     "url": "https://profile.tuanducdesign.com",
     "icon": "https://favicons.githubusercontent.com/profile.tuanducdesign.com",
     "slug": "profile",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 896,
-    "timeDay": 817,
-    "timeWeek": 907,
-    "timeMonth": 896,
-    "timeYear": 896,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 903,
+    "timeDay": 912,
+    "timeWeek": 916,
+    "timeMonth": 903,
+    "timeYear": 903,
     "dailyMinutesDown": {
-      "2021-11-27": 0
+      "2021-11-27": 5
     }
   }
 ]
