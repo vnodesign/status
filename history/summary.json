@@ -5,13 +5,13 @@
     "icon": "https://favicons.githubusercontent.com/tuanducdesign.com",
     "slug": "blog",
     "status": "up",
-    "uptime": "98.74%",
-    "uptimeDay": "98.78%",
+    "uptime": "98.81%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.67%",
-    "uptimeMonth": "98.74%",
-    "uptimeYear": "98.74%",
+    "uptimeMonth": "98.81%",
+    "uptimeYear": "98.81%",
     "time": 1074,
-    "timeDay": 245,
+    "timeDay": 258,
     "timeWeek": 1086,
     "timeMonth": 1074,
     "timeYear": 1074,
@@ -44,17 +44,19 @@
     "url": "https://profile.tuanducdesign.com",
     "icon": "https://favicons.githubusercontent.com/profile.tuanducdesign.com",
     "slug": "profile",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 920,
-    "timeDay": 1102,
+    "timeDay": 1196,
     "timeWeek": 940,
     "timeMonth": 920,
     "timeYear": 920,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-28": 0
+    }
   }
 ]
