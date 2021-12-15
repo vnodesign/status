@@ -8,7 +8,7 @@ sites:
   - name: Service
     url: https://service.tuanducdesign.com
   - name: Profile
-    url: https://profile.tuanducdesign.com
+    url: https://me.tuanducdesign.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
